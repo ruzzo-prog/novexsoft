@@ -52,3 +52,7 @@ NOVEXSOFT/
 ---
 
 © 2025 NOVEXSOFT. Все права защищены.
+## Инструкция обновления 
+git add .
+git commit -m "Обновления: правки сайта"
+git push origin main
